@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugins",
+  "name": "vite-plugin-node-ts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vite-plugin-node-ts": "./packages/vite-plugin-node-ts"
+    "vite": "4.1.2"
   }
 }
